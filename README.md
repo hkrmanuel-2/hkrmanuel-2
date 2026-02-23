@@ -1,6 +1,6 @@
 # HKR Manuel — Artist & Audio Technologist
 
-![Banner](https://raw.githubusercontent.com/hkrmanuel-2/hkrmanuel-2/main/banner.png)  
+![Banner](Banner)  
 
 **Creating music. Building experiences. Empowering creators.**
 ---
