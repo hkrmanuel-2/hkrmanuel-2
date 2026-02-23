@@ -40,7 +40,7 @@ VHDL, Signal Processing, 3D Immersive Experiences, Music Production, Creative AI
 
 ![Music Wave](https://via.placeholder.com/1200x80?text=Music+Wave+Graphic)  
 
-[![Spotify](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/spotify.svg)](https://open.spotify.com/artist/5DKmQWjj3JAN62pZ9oienB?si=cc7_WbpuRuWofvK1dSUw-w) **HKR Manuel**  
+**HKR Manuel**  
 
 African rhythms meet cinematic soundscapes — narrative-driven, experimental yet approachable.
 
